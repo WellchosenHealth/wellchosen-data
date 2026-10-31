@@ -5,12 +5,14 @@ Dated, sourced datasets on cash-pay health care from [Wellchosen Health](https:/
 | Dataset | What it covers | Rows | Updated | Page |
 | --- | --- | --- | --- | --- |
 | [GLP-1 Price Index](glp1-price-index/) | All-in monthly cash prices for GLP-1 drugs at 34 US online programs and 23 maker and retail channels, with FDA letter and BBB fields | 57 | Monthly | [Page](https://wellchosenhealth.com/glp-1/price-report/) |
+| [Medicaid GLP-1 Coverage by State](medicaid-glp1-coverage-by-state/) | Weight-loss, heart-risk and sleep apnea coverage of GLP-1 drugs in all 51 Medicaid programs, with primary documents | 51 | When rechecked | [Page](https://wellchosenhealth.com/glp-1/medicaid-coverage-by-state/) |
 | [FDA GLP-1 Warning Letters](fda-glp1-warning-letters/) | Every FDA warning letter since 2024 that cites a GLP-1 drug, with recipient, what FDA cited and the fda.gov link | 153 | When rechecked | [Page](https://wellchosenhealth.com/glp-1/fda-warning-letters/) |
 | [Peptide FDA and HHS Status](peptide-fda-status/) | FDA status of 27 peptides (BPC-157, TB-500 and more), with the six in the Oct 28, 2026 draft HHS 503A policy | 27 | When rechecked | [Page](https://wellchosenhealth.com/peptides/) |
 
 ## Archived copies (DOIs)
 
 - GLP-1 Price Index: https://doi.org/10.5281/zenodo.23839034
+- Medicaid GLP-1 Coverage by State: https://doi.org/10.5281/zenodo.23839866
 - FDA GLP-1 Warning Letters: https://doi.org/10.5281/zenodo.23839116
 - Peptide FDA and HHS Status: https://doi.org/10.5281/zenodo.23839185
 
